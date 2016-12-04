@@ -16,7 +16,7 @@ int main()
             cout <<bottles<< " bottles of beer on the wall\n";
             cout <<bottles<< " bottles of beer\n";
             cout <<"Take one down, pass it around\n";
-            cout <<bottles<< " bottles of beer on the wall\n\n";
+            cout <<bottles - 1<< " bottles of beer on the wall\n\n";
         }
     }
 }
